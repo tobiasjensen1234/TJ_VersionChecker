@@ -1,1 +1,1 @@
-{"version":"1.2.6","news":"Added saveable walk and expression and new exports"}
+{"version":"1.0.0","news":"Tak Fordi Du Valgte TJ Productions"}
