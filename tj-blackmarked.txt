@@ -1,1 +1,1 @@
-{"version":"1.2.0","news":"Tilføjet Version Tjekker"}
+{"version":"1.2.0","news":"Fjernet Escrow fra client.lua - i kan nu tilføje item til blackmarked"}
